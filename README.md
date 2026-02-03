@@ -30,3 +30,17 @@ This project applies Exploratory Data Analysis combined with RFM-based segmentat
 * Detect churn-risk customers based on recency and frequency patterns
 
 * Provide actionable insights for marketing and customer engagement strategies
+
+## Analytical Approach
+
+* Data cleaning & preprocessing
+
+* Univariate analysis to understand distributions and outliers
+
+* Bivariate & multivariate analysis to identify relationships
+
+* RFM feature engineering using quantiles
+
+* Customer segmentation based on RFM scores
+
+* Churn vs non-churn behavior comparison
